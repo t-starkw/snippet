@@ -1,4 +1,4 @@
-# JATE - Just Anpther Text Editor
+# JATE - Just Another Text Editor
 
 ## Project Description
 JATE is a single-page text editor application that runs in the browser. This application meets PWA criteria and features multiple data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. Additionally, this application is available for installation and is fully functional offline.
